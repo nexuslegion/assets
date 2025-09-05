@@ -1,0 +1,11 @@
+{
+  "name": "Megatron",
+  "symbol": "MGT",
+  "type": "POLYGON",
+  "decimals": 18,
+  "description": "Megatron is a community-driven token built on Polygon network.",
+  "website": "https://yourwebsite.com",
+  "explorer": "https://polygonscan.com/token/0x007687DE27A9B8257519B81fABDA5FE0Bd6",
+  "status": "active",
+  "id": "0x007687DE27A9B8257519B81fABDA5FE0Bd6"
+}
